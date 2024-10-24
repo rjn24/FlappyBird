@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\games\\bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|D:\\Unity\\games\\bird\\assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|d:\\unity\\games\\bird\\assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|D:\\Unity\\games\\bird\\assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|D:\\Unity\\games\\bird\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|D:\\Unity\\games\\bird\\assets\\pipespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2B5709-9787-2E55-3F0A-10EDB01A6FC6}|Assembly-CSharp.csproj|solutionrelative:assets\\pipespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeMiddleScript.cs",
+              "DocumentMoniker": "D:\\Unity\\games\\bird\\Assets\\PipeMiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMiddleScript.cs",
+              "ToolTip": "D:\\Unity\\games\\bird\\Assets\\PipeMiddleScript.cs",
+              "RelativeToolTip": "Assets\\PipeMiddleScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:17:51.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\Unity\\games\\bird\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "D:\\Unity\\games\\bird\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:08:57.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "D:\\Unity\\games\\bird\\Assets\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMoveScript.cs",
+              "ToolTip": "D:\\Unity\\games\\bird\\Assets\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\PipeMoveScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:46:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "D:\\Unity\\games\\bird\\Assets\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BirdScript.cs",
+              "ToolTip": "D:\\Unity\\games\\bird\\Assets\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\BirdScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:59:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PipeSpawnerScript.cs",
+              "DocumentMoniker": "D:\\Unity\\games\\bird\\Assets\\PipeSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeSpawnerScript.cs",
+              "ToolTip": "D:\\Unity\\games\\bird\\Assets\\PipeSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\PipeSpawnerScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:00:00.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
